@@ -22,12 +22,14 @@
 	let readRPCs = [
 		'https://rpc.hellomoon.io/cfd5910f-fb7d-4489-9b32-f97193eceefd',
 		'https://solana-api.syndica.io/access-token/WPoEqWQ2auQQY1zHRNGJyRBkvfOLqw58FqYucdYtmy8q9Z84MBWwqtfVf8jKhcFh/rpc',
+                'https://solana-mainnet.g.alchemy.com/v2/C_AKLeYbSal2SLtITVnTEQDDB_ybn6SE',
 	];
 
 	//Used for pushing transactions to solana chain
 	let writeRPCs = [
 		'https://rpc.hellomoon.io/cfd5910f-fb7d-4489-9b32-f97193eceefd',
 		'https://solana-api.syndica.io/access-token/WPoEqWQ2auQQY1zHRNGJyRBkvfOLqw58FqYucdYtmy8q9Z84MBWwqtfVf8jKhcFh/rpc',
+                'https://solana-mainnet.g.alchemy.com/v2/C_AKLeYbSal2SLtITVnTEQDDB_ybn6SE',
 	];
 
 	//Program public keys
